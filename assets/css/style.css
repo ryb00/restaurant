@@ -25,7 +25,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px C0C0C0;
+    box-shadow: 0 2px 2px #c0c0c0;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -54,21 +54,17 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid C0C0C0;
-}
-
-.gallery{
-    display:none
+    border-bottom: 1px solid #c0c0c0;
 }
 
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: 830408;
+    background-color: #830408;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px C0C0C0;
+    box-shadow: 0 2px 2px #c0c0c0;
     display: none;
     top: 100%;
 }
@@ -88,13 +84,18 @@ nav {
 
 /* Main content */
 main {
-    background-color: C0C0C0;
+    background-color: #c0c0c0;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
 }
 
 /* Footer */
+footer{
+    background-color: #830408;
+    color: #c0c0c0;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -106,7 +107,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: C0C0C0;
+    color: #c0c0c0;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -129,7 +130,7 @@ main {
     }
 
     .gallery{
-        display:list-style-type;
+        display:none;
     }
 
     .hamburger-menu-label {
@@ -152,6 +153,6 @@ main {
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover{
-        border-bottom: 1px solid C0C0C0;
+        border-bottom: 1px solid #c0c0c0;
     }
 }
