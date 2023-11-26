@@ -89,7 +89,7 @@ main {
     background-color: #c0c0c0;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 45px;
 }
 
 /* Main image */
@@ -152,12 +152,7 @@ footer{
         margin: 0 0.5rem;
     }
 
-    /* Main content */
-    main {
-        /* Push main content down to accommodate larger header */
-        margin-top: 79px;
-    }
-}
+   }
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
