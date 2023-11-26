@@ -99,16 +99,6 @@ main {
     background: url("../images/MainImage.png") no-repeat center center/cover;
 }
 
-.image-dish1 {
-    background: url("../images/image-dish1.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
 /* Footer */
 footer{
     background-color: #830408;
