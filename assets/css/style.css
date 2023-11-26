@@ -162,6 +162,31 @@ footer{
         margin: 0 0.5rem;
     }
 
+    .image-dish1 {
+        background: url("../images/image-dish1.jpg");
+    }
+    .image-dish2 {
+        background: url("../images/image-dish2.jpg");
+    }
+    .image-dish3 {
+        background: url("../images/image-dish3.jpg");
+    }
+    .image-dish4 {
+        background: url("../images/image-dish4.jpg");
+    }
+    .image-dish5 {
+        background: url("../images/image-dish5.jpg");
+    }
+    .image-dish1, .image-dish2, .image-dish3, .image-dish4, .image-dish5 {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 360px;
+        transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -webkit-transition: all .5s ease-in-out;
+    }
+
    }
 
 /* Large devices (laptops and desktops, 992px and up) */
