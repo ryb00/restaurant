@@ -56,11 +56,13 @@ h1 {
 #logo:hover{
     color: white;
     border-bottom:none;
+    text-decoration: none;
 }
 
-#menu a:hover {
+#menu li a:hover {
     color: white;
     border-bottom: none;
+    text-decoration: none;
 }   
 
 .active {
