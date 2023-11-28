@@ -74,7 +74,7 @@ nav {
     position: absolute;
     background-color: #830408;
     width: 50%;
-    left: 0;
+    right: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #c0c0c0;
     display: none;
@@ -89,7 +89,6 @@ nav {
 #hamburger-menu {
     display: none;
     width: 50%;
-    align-items:end;
 }
 
 .hamburger-menu-label {
@@ -103,6 +102,7 @@ main {
     flex: 1 0 auto;
     margin-top: 45px;
     text-align: center;
+    background-position: center;
 }
 
 /* Main image */
