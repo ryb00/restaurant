@@ -55,7 +55,7 @@ h1 {
 
 header a:hover{
     color: white;
-    border-bottom:none;
+    border-bottom:#830408;
 }
 
 .active {
@@ -128,7 +128,7 @@ footer{
     color: #c0c0c0;
 }
 
-footer a:hover{
+footer i:hover{
     color: white;
 }
 
