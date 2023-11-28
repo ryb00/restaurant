@@ -101,13 +101,20 @@ main {
 
 .text{
     color: black;
-    margin: 35px;
+    margin: 70px;
 }
 
 hr{
     background-color: #830408;
     height: 3px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
+
+.fa-utensils{
+align-items: center;  
+}
+
 /* Footer */
 footer{
     background-color: #830408;
