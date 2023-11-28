@@ -123,10 +123,9 @@ hr{
     margin-right: 150px;
 }
 
-.fa-sharp div:before {
+.text{
    display: flex;
    align-items: center;
-   
 }
 
 /* Footer */
