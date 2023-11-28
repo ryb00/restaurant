@@ -123,9 +123,8 @@ hr{
     margin-right: 150px;
 }
 
-.fa-utensils i{
+.fa-utensils div{
     text-align:center;
-    align-items: center;  
     font-size: 300%;
 }
 
