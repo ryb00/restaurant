@@ -16,7 +16,6 @@ body {
     /* Generic project styles */
     color: #c0c0c0;
     font-family: 'Exo', sans-serif;
-    text-align: center;
 }
 
 /* Header */
@@ -90,7 +89,7 @@ nav {
 #hamburger-menu {
     display: none;
     width: 50%;
-    right:0;
+    align-items:end;
 }
 
 .hamburger-menu-label {
@@ -103,6 +102,7 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 45px;
+    text-align: center;
 }
 
 /* Main image */
@@ -122,11 +122,6 @@ hr{
     height: 3px;
     margin-left: 150px;
     margin-right: 150px;
-}
-
-.text{
-   display: flex;
-   align-items: center;
 }
 
 /* Footer */
