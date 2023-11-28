@@ -123,9 +123,9 @@ hr{
     margin-right: 150px;
 }
 
-.fa-sharp div i{
+.fa-sharp {
+    display: flex;
     text-align:center;
-    font-size: 300%;
 }
 
 /* Footer */
