@@ -123,11 +123,8 @@ hr{
     margin-right: 150px;
 }
 
-.fa-sharp i {
-    height: 30px;
-    display: flex;
-    text-align:center;
-    font-size: 24px;
+.fa-sharp div {
+   width:100%;
 }
 
 /* Footer */
