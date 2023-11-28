@@ -123,10 +123,10 @@ hr{
     margin-right: 150px;
 }
 
-.fa-utensils{
+.fa-utensils i{
     text-align:center;
     align-items: center;  
-    text-size-adjust: 300%;
+    font-size: 300%;
 }
 
 /* Footer */
