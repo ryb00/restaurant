@@ -53,8 +53,9 @@ h1 {
     margin-bottom: 1em;
 }
 
-#menu a:hover{
+header a:hover{
     color: white;
+    border-bottom:none;
 }
 
 .active {
@@ -127,7 +128,7 @@ footer{
     color: #c0c0c0;
 }
 
-#footer a:hover{
+footer a:hover{
     color: white;
 }
 
