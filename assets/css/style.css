@@ -101,10 +101,12 @@ main {
 
 .text{
     color: black;
+    margin: 35px;
 }
 
 hr{
-    color: #830408;
+    background-color: #830408;
+    height: 3px;
 }
 /* Footer */
 footer{
