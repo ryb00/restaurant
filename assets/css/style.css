@@ -53,6 +53,10 @@ h1 {
     margin-bottom: 1em;
 }
 
+#menu a:hover{
+    color: white;
+}
+
 .active {
     border-bottom: 1px solid #c0c0c0;
 }
@@ -112,7 +116,9 @@ hr{
 }
 
 .fa-utensils{
-align-items: center;  
+    text-align:center;
+    align-items: center;  
+    text-size-adjust: 300%;
 }
 
 /* Footer */
@@ -120,6 +126,11 @@ footer{
     background-color: #830408;
     color: #c0c0c0;
 }
+
+#footer a:hover{
+    color: white;
+}
+
 
 #social-networks {
     text-align: center;
@@ -194,10 +205,3 @@ footer{
     }
 
    }
-
-/* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
-    #menu a:hover{
-        border-bottom: 1px solid #c0c0c0;
-    }
-}
