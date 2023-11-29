@@ -112,6 +112,10 @@ main {
     background: url("../images/MainImage.png") no-repeat center center/cover;
 }
 
+.fa-sharp{
+    margin-bottom: 20px;
+}
+
 .text{
     color: black;
     margin: 70px;
