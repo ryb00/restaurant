@@ -55,9 +55,9 @@ h1 {
 
 #logo:hover{
     color: white;
-    border-bottom:none;
     text-decoration: none;
     text-decoration-color: #830408;
+    border-bottom-color: #830408;
 }
 
 #menu li a:hover {
