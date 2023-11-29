@@ -57,6 +57,7 @@ h1 {
     color: white;
     border-bottom:none;
     text-decoration: none;
+    text-decoration-color: #830408;
 }
 
 #menu li a:hover {
