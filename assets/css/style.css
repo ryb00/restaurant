@@ -113,8 +113,9 @@ main {
 }
 
 .fa-sharp{
+    margin: auto;
     margin-bottom: 20px;
-}
+    }
 
 .text{
     color: black;
