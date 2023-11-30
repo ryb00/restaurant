@@ -123,6 +123,11 @@ main {
     width: 100%;
     background: url("../images/chefs.jpg") no-repeat center center/cover;
 }
+#contact-image{
+    height: 600px;
+    width: 100%;
+    background: url("../images/contact.jpg") no-repeat center center/cover;
+}
 
 /* Gallery page */
 #photos img {
