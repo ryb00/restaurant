@@ -133,6 +133,10 @@ main {
     line-height: 0;
 }
 
+#chef-photo{
+    width: 300px;
+}
+
 .fa-sharp{
     margin: auto;
     margin-bottom: 20px;
