@@ -247,6 +247,12 @@ footer{
     .image-dish10 {
         background: url("../images/image-dish10.jpg");
     }
+    .image-dish11 {
+        background: url("../images/image-dish11.jpg");
+    }
+    .image-dish12 {
+        background: url("../images/image-dish12.jpg");
+    }
     .images > div {
         background-position: center;
         background-repeat: no-repeat;
