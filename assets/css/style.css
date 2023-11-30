@@ -135,6 +135,8 @@ main {
 
 #chef-photo{
     width: 300px;
+    margin: auto;
+    padding-bottom: 30px;
 }
 
 .fa-sharp{
