@@ -135,7 +135,7 @@ main {
 }
 
 #chef-photo{
-    width: 200px;
+    width: 250px;
     margin: auto;
     padding-bottom: 30px;
 }
@@ -232,7 +232,22 @@ footer{
     .image-dish5 {
         background: url("../images/image-dish5.jpg");
     }
-    .image-dish1, .image-dish2, .image-dish3, .image-dish4, .image-dish5 {
+    .image-dish6 {
+        background: url("../images/image-dish6.jpg");
+    }
+    .image-dish7 {
+        background: url("../images/image-dish7.jpg");
+    }
+    .image-dish8 {
+        background: url("../images/image-dish8.jpg");
+    }
+    .image-dish9 {
+        background: url("../images/image-dish9.jpg");
+    }
+    .image-dish10 {
+        background: url("../images/image-dish10.jpg");
+    }
+    .images > div {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
