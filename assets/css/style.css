@@ -123,6 +123,12 @@ main {
     background: url("../images/chefs.jpg") no-repeat center center/cover;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
 #photos {
     line-height: 0;
 }
