@@ -192,6 +192,11 @@ hr{
     max-width: 70%;
 }
 
+ul{
+    list-style-type: none;
+    color: black;
+}
+
 /* Footer */
 footer{
     background-color: #830408;
