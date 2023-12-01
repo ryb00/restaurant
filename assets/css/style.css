@@ -157,6 +157,7 @@ main {
 
 .text-contact{
     color: black;
+    width: 70%;
 }
 
 input{
@@ -170,6 +171,14 @@ hr{
     margin-right: 150px;
 }
 
+.btn{
+    color: #c0c0c0;
+    background-color: #830408;
+}
+
+.btn:hover{
+    color: white;
+}
 /* Footer */
 footer{
     background-color: #830408;
@@ -280,3 +289,4 @@ footer{
         width: 300px;
 
    }
+}
