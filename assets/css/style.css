@@ -160,25 +160,11 @@ main {
     max-width: 70%;
 }
 
-input{
-    padding-bottom: 50px;
-}
-
 hr{
     background-color: #830408;
     height: 3px;
     margin-left: 150px;
     margin-right: 150px;
-}
-
-.text-center{
-    text-align: center;
-    justify-content: center;
-    margin: auto;
-}
-
-.form-control {
-    padding-bottom: 20px;
 }
 
 .btn{
