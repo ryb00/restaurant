@@ -172,6 +172,11 @@ hr{
     margin-top: 30px;
 }
 
+.center-form{
+    text-align: center;
+    justify-content: center;
+}
+
 .btn{
     color: #c0c0c0;
     background-color: #830408;
