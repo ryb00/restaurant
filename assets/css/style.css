@@ -171,9 +171,16 @@ hr{
     margin-right: 150px;
 }
 
+.text-center{
+    text-align: left;
+    justify-content: left;
+    margin: auto;
+}
+
 label{
     text-align: left;
     justify-content: left;
+    margin: auto;
 }
 
 .btn{
