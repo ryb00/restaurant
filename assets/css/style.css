@@ -172,8 +172,8 @@ hr{
 }
 
 .text-center{
-    text-align: left;
-    justify-content: left;
+    text-align: center;
+    justify-content: center;
     margin: auto;
 }
 
