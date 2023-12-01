@@ -157,10 +157,10 @@ main {
 
 .text-contact{
     color: black;
-    max-width: 70%;
-    margin: 70px;
-    text-align: center;
-    justify-content: center;
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 hr{
@@ -174,21 +174,24 @@ hr{
     margin-top: 30px;
 }
 
-.center-form{
-    text-align: center;
-    justify-content: center;
-    margin: auto;
-}
-
 .btn{
     color: #c0c0c0;
     background-color: #830408;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 .btn:hover{
     color: white;
     background-color: #830408;
 }
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
 /* Footer */
 footer{
     background-color: #830408;
