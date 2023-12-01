@@ -177,8 +177,8 @@ hr{
     margin: auto;
 }
 
-input{
-    padding-bottom: 50px;
+.form-control {
+    padding-bottom: 20px;
 }
 
 .btn{
