@@ -197,6 +197,10 @@ ul{
     color: black;
 }
 
+iframe {
+    max-width: 100%;
+}
+
 /* Footer */
 footer{
     background-color: #830408;
