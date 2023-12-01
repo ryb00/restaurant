@@ -177,10 +177,14 @@ hr{
     margin: auto;
 }
 
-label{
+.label-contact{
     text-align: left;
     justify-content: left;
     margin: auto;
+}
+
+input{
+    padding-bottom: 50px;
 }
 
 .btn{
