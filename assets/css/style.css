@@ -192,7 +192,7 @@ hr{
     max-width: 70%;
 }
 
-ul{
+.address, .phone{
     list-style-type: none;
     color: black;
 }
