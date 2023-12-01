@@ -175,6 +175,7 @@ hr{
 .center-form{
     text-align: center;
     justify-content: center;
+    margin: auto;
 }
 
 .btn{
