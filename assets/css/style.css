@@ -1,7 +1,6 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css?family=Exo:100,200,300,400,500,600,700');
 
-/* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
@@ -9,6 +8,7 @@
 }
 
 /* General styles */
+
 body {
     min-height: 100vh;
     display: flex;
@@ -19,6 +19,7 @@ body {
 }
 
 /* Header */
+
 header {
     background-color: #830408;
     padding: 0 1rem;
@@ -76,7 +77,6 @@ h1 {
     border-bottom: 1px solid #c0c0c0;
 }
 
-/* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
     background-color: #830408;
@@ -88,7 +88,8 @@ nav {
     top: 100%;
 }
 
-/* Nav toggle */
+/* Hamburger-menu */
+
 #hamburger-menu:checked~nav {
     display: block;
 }
@@ -103,46 +104,13 @@ nav {
 }
 
 /* Main content */
+
 main {
     background-color: #c0c0c0;
-    /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 45px;
     text-align: center;
     justify-content: center;
-}
-
-/* Main image */
-#main-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/MainImage.png") no-repeat center center/cover;
-}
-#chefs-image{
-    height: 600px;
-    width: 100%;
-    background: url("../images/chefs.jpg") no-repeat center center/cover;
-}
-#contact-image{
-    height: 600px;
-    width: 100%;
-    background: url("../images/contact.jpg") no-repeat center center/cover;
-}
-
-/* Gallery page */
-#photos img {
-    width: 100%;
-    line-height: 1em;
-}
-
-#photos {
-    line-height: 0;
-}
-
-#chef-photo{
-    width: 250px;
-    margin: auto;
-    padding-bottom: 30px;
 }
 
 .fa-sharp{
@@ -169,6 +137,47 @@ hr{
     margin-left: 150px;
     margin-right: 150px;
 }
+
+/* Main images */
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/MainImage.png") no-repeat center center/cover;
+}
+
+#chefs-image{
+    height: 600px;
+    width: 100%;
+    background: url("../images/chefs.jpg") no-repeat center center/cover;
+}
+
+#contact-image{
+    height: 600px;
+    width: 100%;
+    background: url("../images/contact.jpg") no-repeat center center/cover;
+}
+
+/* Gallery page */
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
+/* Team page */
+
+#chef-photo{
+    width: 250px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+/* Contact page */
 
 .form-element{
     margin-top: 30px;
@@ -202,6 +211,7 @@ iframe {
 }
 
 /* Footer */
+
 footer{
     background-color: #830408;
     color: #c0c0c0;
