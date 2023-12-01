@@ -161,7 +161,7 @@ main {
 }
 
 input{
-    padding: 20px;
+    padding-bottom: 50px;
 }
 
 hr{
@@ -173,6 +173,7 @@ hr{
 
 label{
     text-align: left;
+    justify-content: left;
 }
 
 .btn{
