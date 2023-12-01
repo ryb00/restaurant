@@ -168,6 +168,10 @@ hr{
     margin-right: 150px;
 }
 
+.form-element{
+    margin-top: 50px;
+}
+
 .btn{
     color: #c0c0c0;
     background-color: #830408;
