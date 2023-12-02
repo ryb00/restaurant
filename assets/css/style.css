@@ -22,7 +22,7 @@ body {
 
 header {
     background-color: #830408;
-    padding: 0 1rem;
+    padding: 0;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -30,7 +30,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    max-width: 100%;
 }
 
 header a {
