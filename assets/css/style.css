@@ -112,6 +112,7 @@ main {
     text-align: center;
     justify-content: center;
     width: 100%;
+    padding: 0 1rem;
 }
 
 .fa-sharp{
