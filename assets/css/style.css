@@ -22,7 +22,7 @@ body {
 
 header {
     background-color: #830408;
-    padding: 0;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -111,6 +111,7 @@ main {
     margin-top: 45px;
     text-align: center;
     justify-content: center;
+    width: 100%;
 }
 
 .fa-sharp{
