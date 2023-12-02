@@ -25,7 +25,7 @@ header {
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
-    width: 100%;
+    max-width: 100%;
     box-shadow: 0 2px 2px #c0c0c0;
     display: flex;
     justify-content: space-between;
@@ -111,7 +111,6 @@ main {
     margin-top: 45px;
     text-align: center;
     justify-content: center;
-    width: 100%;
 }
 
 .fa-sharp{
