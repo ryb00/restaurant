@@ -30,6 +30,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    max-width: 100%;
 }
 
 header a {
