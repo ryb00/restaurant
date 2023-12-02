@@ -143,18 +143,21 @@ hr{
 /* Main images */
 
 #main-image {
+    padding: 0;
     height: 600px;
     width: 100%;
     background: url("../images/MainImage.png") no-repeat center center/cover;
 }
 
 #chefs-image{
+    padding: 0;
     height: 600px;
     width: 100%;
     background: url("../images/chefs.jpg") no-repeat center center/cover;
 }
 
 #contact-image{
+    padding: 0;
     height: 600px;
     width: 100%;
     background: url("../images/contact.jpg") no-repeat center center/cover;
