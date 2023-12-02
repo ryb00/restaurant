@@ -22,7 +22,8 @@ body {
 
 header {
     background-color: #830408;
-    padding: 0 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -112,7 +113,6 @@ main {
     text-align: center;
     justify-content: center;
     width: 100%;
-    padding: 0 1rem;
 }
 
 .fa-sharp{
@@ -143,24 +143,18 @@ hr{
 /* Main images */
 
 #main-image {
-    padding-left: 0px;
-    padding-right: 0px;
     height: 600px;
     width: 100%;
     background: url("../images/MainImage.png") no-repeat center center/cover;
 }
 
 #chefs-image{
-    padding-left: 0px;
-    padding-right: 0px;
     height: 600px;
     width: 100%;
     background: url("../images/chefs.jpg") no-repeat center center/cover;
 }
 
-#contact-image{
-    padding-left: 0px;
-    padding-right: 0px;
+#contact-image{ 
     height: 600px;
     width: 100%;
     background: url("../images/contact.jpg") no-repeat center center/cover;
