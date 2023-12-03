@@ -1,9 +1,27 @@
-## RESTAURANT FOODIE
+# RESTAURANT FOODIE
 
 This site is a business card of restaurant FOODIE. The site provides information to potential customers about the restaurant, the restaurant's chefs, the menu and has contact information.
 
-### My pages on different devices
+## My pages on different devices
 
 ![Home page laptop](/assets/images/image-laptop.png)
 ![Chefs page tablet](/assets/images/image-tablet.png)
 ![Contact us page phone](/assets/images/image-phone.png)
+
+# Features
+
+## Navigation bar
+
+The fully responsive navigation bar featured on all pages includes links to the Page Logo, Home Page, Chefs Page, Gallery and Contact us and is identical on each for easy navigation.
+This section allows the user to easily navigate the page across all devices without having to go to the previous page using the back button.
+
+![Navigation bar](/assets/images/image-navigation-bar)
+
+## Footer
+
+At the bottom of each page is a Footer, which allows you to go to the restaurant’s Facebook, Twitter and Instagram pages.
+
+![Footer](/assets/images/image-footer)
+
+# Home page
+
