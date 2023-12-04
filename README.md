@@ -60,7 +60,7 @@ The second column contains the main content - the education and work experience 
 
 At the top of the page there is an image of the restaurant's interior.
 
-![Main image contact us page](/assets/images/contact.png)
+![Main image contact us page](/assets/images/contact.jpg)
 
 Next, for devices with a width greater than 768px, there are two columns (for devices with a width up to 768px, the first column is missing).
 
@@ -76,6 +76,7 @@ The second column contains the main content - a form for sending user messages, 
 # Menu item in the navigation pane
 
 The Menu item in the navigation panel opens the restaurant menu in pdf format.
+![Menu](/assets/menu/menu.pdf)
 
 
 # Gallery page
