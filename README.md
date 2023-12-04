@@ -92,7 +92,19 @@ The site was tested in the Chrome browser on different devices (phone, tablet, l
 
 ## HTML
 No errors were returned when passing through the official W3C validator
-CSS
+
+## CSS
 No errors were found when passing through the official (Jigsaw) validator
 
 
+# Deployment
+
+The site was deployed to GitHub pages.
+Link  https://ryb00.github.io/restaurant/
+
+# Credits
+
+The icons in the footer were taken from https://fontawesome.com/
+The favicon was taken from https://favicon.io/
+The images were taken from https://www.pexels.com/ and https://pixabay.com/
+Information when writing the code was taken from https://www.w3schools.com/ and https://getbootstrap.com/
