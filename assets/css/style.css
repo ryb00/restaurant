@@ -319,7 +319,7 @@ footer{
         -webkit-transition: all .5s ease-in-out;
     }
 
-    #chef-photo{
+    #chef-photo1, #chef-photo2{
         width: 300px;
 
    }
