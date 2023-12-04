@@ -27,43 +27,28 @@ At the bottom of each page is a Footer, which allows you to go to the restaurant
 
 At the top of the page there is an image of a set table.
 
-![Main image home page](/assets/images/mainimage.png)
+![Main image home page](/assets/images/mainimage)
 
 Next, for devices with a width greater than 768px, there are two columns (for devices with a width up to 768px, the first column is missing).
 
 The first column contains images of dishes, which allows a potential client to form an impression of the restaurant menu.
 
-![Gallery home page](/assets/images/gallery-home-page.png)
+![Gallery home page](/assets/images/)![Gallery contact us page](/assets/images/gallery-contactus-page.png)
 
-The second column contains the main content - a description of the restaurant. This information will help potential customers form an impression of the restaurant.
+The second column contains the main content - a form for sending user messages, the address of the restaurant and location on the map.
 
-![Main content home page](/assets/images/home-page-content.png)
+![Main content contact us page](/assets/images/contactus-page-content1.png)
+![Main content contact us page](/assets/images/contactus-page-content2.png)
+
+# Menu item in the navigation pane
+
+The Menu item in the navigation panel opens the restaurant menu in pdf format.
 
 
-# Chefs page
+# Gallery page
 
-At the top of the page there is an image of the cooking process in a restaurant.
+This page is only displayed on devices less than 768 pixels wide. The page displays images of dishes that are displayed on Home, Chefs, Contact us pages on devices wider than 768 pixels in the first column.
 
-![Main image chefs page](/assets/images/chefs.png)
+![Gallery page](/assets/images/gallery-page.png)
 
-Next, for devices with a width greater than 768px, there are two columns (for devices with a width up to 768px, the first column is missing).
 
-The first column contains images of dishes, which allows a potential client to form an impression of the restaurant menu.
-
-![Gallery chefs page](/assets/images/gallery-chefs-page.png)
-
-The second column contains the main content - the education and work experience of the chefs. This information introduces potential customers to the restaurant's chefs.
-
-![Main content chefs page](/assets/images/chefs-page-content.png)
-
-# Contact us page
-
-At the top of the page there is an image of the restaurant's interior.
-
-![Main image contact us page](/assets/images/contact.png)
-
-Next, for devices with a width greater than 768px, there are two columns (for devices with a width up to 768px, the first column is missing).
-
-The first column contains images of dishes, which allows a potential client to form an impression of the restaurant menu.
-
-![Gallery home page](/assets/images/)
