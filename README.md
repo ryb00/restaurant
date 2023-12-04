@@ -27,7 +27,7 @@ At the bottom of each page is a Footer, which allows you to go to the restaurant
 
 At the top of the page there is an image of a set table.
 
-![Main image home page](/assets/images/mainimage.png)
+![Main image home page](/assets/images/MainImage.png)
 
 Next, for devices with a width greater than 768px, there are two columns (for devices with a width up to 768px, the first column is missing).
 
