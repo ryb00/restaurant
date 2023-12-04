@@ -44,7 +44,7 @@ The second column contains the main content - a description of the restaurant. T
 
 At the top of the page there is an image of the cooking process in a restaurant.
 
-![Main image chefs page](/assets/images/chefs.png)
+![Main image chefs page](/assets/images/chefs.jpg)
 
 Next, for devices with a width greater than 768px, there are two columns (for devices with a width up to 768px, the first column is missing).
 
